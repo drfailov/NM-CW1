@@ -1,0 +1,67 @@
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Interop.WMPLib.dll
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.ResolveComReference.cache
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\bin\Release\background.wav
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.exe
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.pdb
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Form1.resources
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.graph.resources
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.matrixAdd.resources
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Properties.Resources.resources
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.GenerateResource.Cache
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.exe
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.pdb
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.ResolveComReference.cache
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.exe
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.pdb
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\bin\Release\background.wav
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.exe
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.pdb
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Form1.resources
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.graph.resources
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.matrixAdd.resources
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Properties.Resources.resources
+D:\ALL\Files\Архіви\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Randomizer.resources
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Randomizer.resources
+C:\Users\Андрей\Desktop\КПИ\ЧМО\RR_1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.GenerateResource.Cache
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.ResolveComReference.cache
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.exe
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.pdb
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\bin\Release\background.wav
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.exe
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.pdb
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Form1.resources
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.graph.resources
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.matrixAdd.resources
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Properties.Resources.resources
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Randomizer.resources
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.GenerateResource.Cache
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Interop.WMPLib.dll
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.ResolveComReference.cache
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.exe
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.pdb
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\bin\Release\background.wav
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.exe
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\bin\Release\Rozrah_1.pdb
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Form1.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.graph.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.matrixAdd.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Properties.Resources.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.Randomizer.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.GenerateResource.Cache
+C:\Users\Dr. Failov\Desktop\Data\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1\Rozrah_1\obj\x86\Release\Rozrah_1.csprojResolveAssemblyReference.cache
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Interop.WMPLib.dll
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.ResolveComReference.cache
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.exe
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.pdb
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\bin\Release\background.wav
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\bin\Release\Rozrah_1.exe
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\bin\Release\Rozrah_1.pdb
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.csprojResolveAssemblyReference.cache
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.Form1.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.graph.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.matrixAdd.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.Properties.Resources.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.Randomizer.resources
+D:\ALL\Files\Архіви\КПИ\Семестр 6\Чисельні методи\РГР ч.1\Rozrah_1 - release edition\Rozrah_1\obj\x86\Release\Rozrah_1.csproj.GenerateResource.Cache
